@@ -35,7 +35,7 @@ export const CONTENT = {
     { label: 'About Steve', to: '/about', style: 'ghost' },
   ],
 
-  pollingReminder: 'Polling day is 24 September. Need a lift? Call or message Steve.',
+  pollingReminder: 'Polling day is 24 September. If you require any assistance in getting to your nearest polling station, don\'t hesitate to contact me.',
 
   nav: [
     { label: 'Home', to: '/', icon: 'home' },
