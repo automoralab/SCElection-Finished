@@ -137,17 +137,11 @@ export default function Home() {
       </section>
 
       {/* Photo band */}
-      <div className="grid grid-cols-2 md:grid-cols-3">
+      <div className="w-full">
         <img
-          src="/images/castletown.jpg"
-          alt="Castletown rooftops and church steeple"
-          className="aspect-[4/3] h-full w-full object-cover md:col-span-2 md:aspect-[21/9]"
-          loading="lazy"
-        />
-        <img
-          src="/images/woodland.jpg"
-          alt="Woodland in the South of the Island"
-          className="aspect-[4/3] h-full w-full object-cover"
+          src="/images/website-banner.png"
+          alt="Castletown, local architecture, and woodland waterfall"
+          className="block h-auto w-full"
           loading="lazy"
         />
       </div>

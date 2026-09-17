@@ -272,8 +272,7 @@ export const CONTENT = {
     emailHref: 'mailto:vote@stevecrowther.net',
     web: 'www.stevecrowther.net',
     webHref: 'https://www.stevecrowther.net',
-    facebook: 'facebook.com/steve.crowther',
-    facebookHref: 'https://www.facebook.com/steve.crowther',
+    facebook: '@steve.crowther',
     imprint:
       'Published by: Steve Crowther, 31 Arbory Street, Castletown, IM9 1LL',
     pollingHelp:

@@ -86,15 +86,10 @@ export function Footer() {
             <p className="text-[0.65rem] font-bold tracking-wider text-gold uppercase">
               Facebook
             </p>
-            <a
-              href={contact.facebookHref}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="mt-1.5 inline-flex items-center gap-2 text-sm font-semibold text-cream hover:text-gold"
-            >
+            <p className="mt-1.5 inline-flex items-center gap-2 text-sm font-semibold text-cream">
               <Icon name="facebook" className="h-4 w-4" />
               {contact.facebook}
-            </a>
+            </p>
           </div>
         </div>
 
